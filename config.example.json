@@ -1,0 +1,13 @@
+{
+  "authorizedPolling": false,
+  "venueName": "Restaurant Name",
+  "venueUrl": "https://resy.com/cities/city-slug/venues/restaurant-slug",
+  "partySize": 2,
+  "windowDays": 30,
+  "diagnosticRuns": 3,
+  "timeZone": "America/New_York",
+  "dataDir": "private/restaurant-slug",
+  "telegram": {
+    "enabled": false
+  }
+}

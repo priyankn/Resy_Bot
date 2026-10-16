@@ -1,0 +1,8 @@
+{
+  "name": "resy-availability-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test", "check": "node monitor.mjs", "preview": "node monitor.mjs --preview", "setup:telegram": "node setup-telegram.mjs" },
+  "dependencies": { "playwright": "^1.56.0" }
+}
